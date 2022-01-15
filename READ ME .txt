@@ -1,0 +1,1 @@
+this appliaction is able to run in 0,01 of a second this shows that the appliactions run time is oprimized \
